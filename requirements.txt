@@ -1,0 +1,6 @@
+flask
+gunicorn
+joblib
+torch
+transformers
+numpy
