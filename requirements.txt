@@ -2,6 +2,6 @@ flask
 gunicorn
 joblib
 torch
-transformers
+transformers==4.36.2
 numpy
 scikit-learn
