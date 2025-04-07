@@ -4,3 +4,4 @@ joblib
 torch
 transformers
 numpy
+scikit-learn
